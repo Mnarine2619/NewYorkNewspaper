@@ -1,24 +1,40 @@
 .page {
-  width:
-  height:
+background-color: #D3D0CB;
+background-image: linear-gradient(#D3D0CB, #DBBDBF);
 }
 
 #article_title {
+font-family: 'Anton', sans-serif;
+color: #461220;
+box-shadow: 5px 5px 0px rgba(5,5,5,0.3);
 
 }
 
 #intro {
-
+font-family: 'Oswald', sans-serif;
+color: #8C2F39;
+ 
 }
 
 .question{
-
+font-family: 'Raleway', sans-serif;
+font-weight:  900;
+color: #4C5760;
+text-shadow: 0px 0px 1px black; 
 }
 
 .answer{
-
+font-family: 'Raleway', sans-serif;
+margin-top: -20px;
+color: #4C5760;
 }
 
 #block_quote {
+font-family: 'Oswald', sans-serif;
+text-align: center;
+color: #8C2F39;
+font-size: 15px;
+border: 2px solid black;
+border-radius: 5px 5px;
 
 }
